@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Nike-shoe-website/static/css/main.0b8b6eab.css",
+    "main.js": "/Nike-shoe-website/static/js/main.cd071837.js",
+    "static/js/787.4ffead87.chunk.js": "/Nike-shoe-website/static/js/787.4ffead87.chunk.js",
+    "static/media/air-jordan-transparent.png": "/Nike-shoe-website/static/media/air-jordan-transparent.b9386e0575a062c9fceb.png",
+    "static/media/nike-logo.png": "/Nike-shoe-website/static/media/nike-logo.8d1aedb223d2b0f2deaa.png",
+    "index.html": "/Nike-shoe-website/index.html",
+    "main.0b8b6eab.css.map": "/Nike-shoe-website/static/css/main.0b8b6eab.css.map",
+    "main.cd071837.js.map": "/Nike-shoe-website/static/js/main.cd071837.js.map",
+    "787.4ffead87.chunk.js.map": "/Nike-shoe-website/static/js/787.4ffead87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b8b6eab.css",
+    "static/js/main.cd071837.js"
+  ]
+}
